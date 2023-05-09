@@ -11,3 +11,19 @@ Remise TP1
 - I18n Models 
   - Traduction: messages erreurs 
   - Traduction : noms des propriétés•	 
+
+## Ressources et documentation: 
+- [Globalisation et localisation](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-5.0) 
+- [Liste des cultures](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Language_Culture_Names,_Codes,_and_ISO_Values)
+
+## Activités de la séance: 
+
+### Théorie:  
+- LIEN BRISÉ: S13_i18n_Models.pptx 
+
+
+### Laboratoire: ZombieParty 
+- [Fichier instructions du laboratoire S13 Lab 1](https://classroom.github.com/a/t7FQxezO)
+
+### Travail personnel:
+- Compléter le laboratoire 
