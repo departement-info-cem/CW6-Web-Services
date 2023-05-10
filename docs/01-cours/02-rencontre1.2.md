@@ -18,12 +18,11 @@
 
 ## Activités de la séance: 
 
-### Théorie: CrazyBooks 
-- Les Views, ViewModels et la validation 
-- [S02_Views_ViewModels_annotations.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EWLco9iAlfBLlPpW0JuSkX8B2wLw2pcaXKWdJSp9gk-14g?e=5UdZQn)
+### Théorie
+- 🔗‍💥[S02_Views_ViewModels_annotations.pptx](BRISE)
 
-### Laboratoire: ZombieParty 
-- Les Views, ViewModels et la validation (Suite du laboratoire S01)
+### Laboratoire
+- 🔗‍💥[Laboratoire 2 ZombieParty](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

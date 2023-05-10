@@ -19,11 +19,10 @@ Remise TP1
 ## Activités de la séance: 
 
 ### Théorie:  
-- LIEN BRISÉ: S13_i18n_Models.pptx 
-
+- 🔗‍💥[S13_i18n_Models.pptx](BRISE)
 
 ### Laboratoire: ZombieParty 
-- [Fichier instructions du laboratoire S13 Lab 1](https://classroom.github.com/a/t7FQxezO)
+- 🔗‍💥[Fichier instructions du laboratoire S13 Lab 1](BRISE)
 
 ### Travail personnel:
 - Compléter le laboratoire 

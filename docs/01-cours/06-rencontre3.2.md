@@ -19,10 +19,10 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- [S06A_PartialViews_ViewModels.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/Ed8sIlIP-MtBpJQEAG1wXbAB8ccQQhvc6T2FAhljAIaftg?e=20V9Sy)
+- 🔗‍💥[S06A_PartialViews_ViewModels.pptx](BRISE)
 
-### Laboratoire: ZombieParty 
-- [Fichier instructions du Lab6](https://classroom.github.com/a/KJRlM0GV)
+### Laboratoire: 
+- 🔗‍💥[Fichier instructions du Lab6 ZombieParty](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

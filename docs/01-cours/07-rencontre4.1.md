@@ -26,13 +26,13 @@ Présentation du TP1
 
 ## Activités de la séance: 
 ### Théorie:  
-- [S07A_ChampsSpeciaux_Images_Notifications.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EXdKRojK7_lNuVSOOlHmjKkBZu61gh1GuzZoLeUre_oMiA?e=jnXvXv)
-- [S07B_Methodes_Asynchrones.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EUw_KtyvqMpPlHG9Sm4Q4CcBJ1SKWSFBqiLULB-DJc6vQw?e=KWaZtR)
-- [S07C_DataSeed.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EZN-jqwY0MlHjY1VwQbzImoB120C-_djhdDDPIRAPTf0iA?e=IU8w7N)
+- 🔗‍💥[S07A_ChampsSpeciaux_Images_Notifications.pptx](BRISE)
+- 🔗‍💥[S07B_Methodes_Asynchrones.pptx](BRISE)
+- 🔗‍💥[S07C_DataSeed.pptx](BRISE)
 
-### Laboratoire: ZombieParty 
-- BROKEN!! Fichier instructions du laboratoire S07 Lab 1
-- [Fichier instructions du laboratoire S07 Lab 2](https://classroom.github.com/a/FM2t5aCq)
+### Laboratoires: 
+- 🔗‍💥[Fichier instructions du laboratoire S07 Lab 1](BRISE)
+- 🔗‍💥[Fichier instructions du laboratoire S07 Lab 2](BRISE)
 
 ### Travail personnel: 
 - Compléter les laboratoires

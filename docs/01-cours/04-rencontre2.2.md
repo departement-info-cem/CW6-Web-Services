@@ -15,11 +15,11 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- [S04A_EntityFramework.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EYwA306vrTlNnHTVD6HY7UgBgMl8Nbto4mKnW4nUIm5Lnw?e=x0RsvP)
-- [S04B_validation_DataAnnotations.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EU0YGyjMyfJIg2pP-of2UpYBJGLcmyIbcaPQM6suEgu29Q?e=dHdCjR)
+- 🔗‍💥[S04A_EntityFramework.pptx](BRISE)
+- 🔗‍💥[S04B_validation_DataAnnotations.pptx](BRISE)
 
-### Laboratoire: ZombieParty 
-- [Fichier instructions du Lab4](https://classroom.github.com/a/Aivtg-xU)
+### Laboratoire: 
+- 🔗‍💥[Fichier instructions du Lab4 ZombieParty](BRISE)
 
 ### Travail personnel: 
 - Compléter le laboratoire

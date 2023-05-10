@@ -15,14 +15,13 @@
 - [VS Hot Reload](https://learn.microsoft.com/fr-ca/visualstudio/debugger/hot-reload?view=vs-2022)
 
 ## Activités de la séance: 
+
 ### Théorie:  
-- [S12_Javascript_Intro.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EeXJydVc4UdHjpVAjJCvyacB_DQWNLLfAhb2qlo1jx10EQ?e=bUDEkR)
+- 🔗‍💥[S12_Javascript_Intro.pptx](BRISE)
 
-### Laboratoire: Tableau 
-- [Fichier instructions du laboratoire S12 Lab 1](https://classroom.github.com/a/5EY_zFDj)
-
-### Laboratoire: ZombieParty
-- [Fichier instructions du laboratoire S12 Lab 2 ](https://classroom.github.com/a/sp_dtfxD)
+### Laboratoires:  
+- 🔗‍💥[Fichier instructions du laboratoire S12 Lab 1 Tableau](BRISE)
+- 🔗‍💥[Fichier instructions du laboratoire S12 Lab 2 ZombieParty](BRISE)
 
 ### Travail personnel: 
 - Compléter les laboratoires

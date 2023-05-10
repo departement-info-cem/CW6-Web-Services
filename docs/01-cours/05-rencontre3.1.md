@@ -14,10 +14,10 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- [S05_DataLayers.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-A22-4203W6EM-01010/EeZePr8Z6pJJrtaISznxR1ABbQOldYEcCsVJQFuHfza86w?e=QOM5Ub)
+- 🔗‍💥[S05_DataLayers.pptx](BRISE)
 
-### Laboratoire: ZombieParty 
-- [Fichier instructions du Laboratoire 5](https://classroom.github.com/a/Vrk7W7zf)
+### Laboratoire: 
+- 🔗‍💥[Fichier instructions du Laboratoire 5 ZombieParty](BRISE)
 
 ### Travail personnel: 
-= Compléter le Laboratoire
+- Compléter le Laboratoire
