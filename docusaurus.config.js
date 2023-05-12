@@ -48,7 +48,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: siteConfig.nom,
+        title: "🚧" + siteConfig.nom,
         logo: {
           alt: "Logo CEM",
           src: "img/logo.svg",
