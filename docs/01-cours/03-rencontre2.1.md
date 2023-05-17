@@ -12,7 +12,7 @@
 ## Activités de la séance: 
 ### Théorie
 - 🔗‍💥[S03A_Modélisation.pptx](BRISE)
-- 🔗‍💥[Rappel BD Relations.pdf](BRTISE)
+- 🔗‍💥[Rappel BD Relations.pdf](BRISE)
 - 🔗‍💥[Wooclap](BRISE)
 
 ### Laboratoire
