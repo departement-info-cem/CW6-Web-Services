@@ -35,7 +35,7 @@
 - [S01C_CreationProjetMVC.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/01.1_Intro_GitKraken/S01C_CreationProjetMVC.pptx?d=w01697b947c244e32959ca241566699de&csf=1&web=1&e=2RoQ28)
 
 ### Démo guidée:
-- Utilisation de Git Kraken
+- Utilisation de Git Kraken (Laboratoire 1)
 - CrazyBooks
 
 ### Laboratoires:
@@ -48,7 +48,6 @@
 Ces liens sont également toujours facilement accessible au bas de la page
 ![Image Reference](/cours/1_1/LiensGithubClassroom.png)
 
-- Laboratoire 1: Utilisez le lien de votre groupe 10XX pour GitHub Classroom et choisir l'assignation 10XX-S01_1_Lab1
 - Laboratoire 2: Utilisez le lien de votre groupe 10XX pour GitHub Classroom et choisir l'assignation 10XX-S01_1_Lab2
 
 ### Travail personnel: 
