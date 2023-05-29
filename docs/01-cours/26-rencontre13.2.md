@@ -1,5 +1,7 @@
 # Rencontre 13.2
 
+🚧 En construction...
+
 ## Contenu
 - Authentification MS Identity 
 - Cookie vs Token 

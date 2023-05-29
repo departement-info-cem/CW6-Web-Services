@@ -1,5 +1,7 @@
 # Rencontre 11.1
 
+🚧 En construction...
+
 ## Contenu
 - Tests Models validation perso. 
 - Règles d'affaires 

@@ -1,5 +1,7 @@
 # Rencontre 5.2
 
+🚧 En construction...
+
 ## Contenu
 - Introduction à Javascript 
 - JS et views

@@ -1,5 +1,7 @@
 # Rencontre 6.1
 
+🚧 En construction...
+
 ## Contenu
 - Révision pour l'examen intra
 
