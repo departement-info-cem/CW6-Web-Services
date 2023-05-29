@@ -19,7 +19,7 @@
   - Déclenchement d’action et d’événement au niveau de l’application par l’envoi d’un formulaire ou d’un appel de page.
 
 ## Ressources et documentation: 
-- [Consignes/standards Repositories et Commits](https://info.cegepmontpetit.ca/git) >=1 Commit par semaine 
+- [Consignes/standards Repositories et Commits](https://info.cegepmontpetit.ca/git)
 - [Bootswatch](https://bootswatch.com/)
 - [Bootstrap DropDown Menu](https://getbootstrap.com/docs/5.0)
 
