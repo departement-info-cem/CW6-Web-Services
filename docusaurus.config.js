@@ -72,11 +72,15 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Sources",
+            title: "Github Classroom E2023",
             items: [
               {
-                label: "GitHub",
-                href: `https://github.com/departement-info-cem/${this.url}`,
+                label: "Groupe 1010",
+                href: `https://classroom.github.com/classrooms/129973551-e23progwebtrans-1010`,
+              },
+              {
+                label: "Groupe 1020",
+                href: `https://classroom.github.com/classrooms/129973551-e23progwebtrans-1020`,
               },
             ],
           },

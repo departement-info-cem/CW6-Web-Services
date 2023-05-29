@@ -1,5 +1,7 @@
 # Rencontre 3.2
 
+🚧 En construction...
+
 ## Contenu
 - Modèles de classes complexes (plusieurs plusieurs) :
   - master/details

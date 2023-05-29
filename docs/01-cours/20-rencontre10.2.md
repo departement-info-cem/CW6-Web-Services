@@ -1,5 +1,7 @@
 # Rencontre 10.2
 
+🚧 En construction...
+
 ## Contenu
 - Introduction aux tests unitaires 
   - Structures 

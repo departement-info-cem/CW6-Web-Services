@@ -1,5 +1,7 @@
 # Rencontre 6.2
 
+🚧 En construction...
+
 ## Examen Intra  
 ### Sujets couverts
 - GitHub
