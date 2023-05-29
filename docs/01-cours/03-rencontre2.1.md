@@ -11,12 +11,12 @@
 
 ## Activités de la séance: 
 ### Théorie
-- 🔗‍💥[S03A_Modélisation.pptx](BRISE)
-- 🔗‍💥[Rappel BD Relations.pdf](BRTISE)
+- 🔗[S03A_Modélisation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.1_Modelisations/S02.1_Modelisation.pptx?d=w2cd7f948ce564104ba8c1cae5154cbc5&csf=1&web=1&e=llxS05)
+- 🔗[Rappel BD Relations.pdf](https://cegepedouardmontpetit-my.sharepoint.com/:b:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.1_Modelisations/Rappel_BD_Relations.pdf?csf=1&web=1&e=Ew512F)
 - 🔗‍💥[Wooclap](BRISE)
 
 ### Laboratoire
-- 🔗‍💥[Fichier instructions du Lab3](https://cegepedouardmontpetit.sharepoint.com/:w:/s/EDU-A22-4203W6EM-01010/Ebt-73OsyGpGlHMPj6S46D0BPKKqTtdLo9zkR4Sx0MYrgg?e=7TcBh3)
+- Choisir l'assignation 10XX-S02_1_Lab1 dans GitHub Classroom
 
 ### Travail personnel: 
 - Compléter le laboratoire

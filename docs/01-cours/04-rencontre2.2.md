@@ -15,11 +15,11 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗‍💥[S04A_EntityFramework.pptx](BRISE)
-- 🔗‍💥[S04B_validation_DataAnnotations.pptx](BRISE)
+- 🔗[S04A_EntityFramework.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.2_EntityFramework/S02.2%20A_EntityFramework.pptx?d=w7d9fd4c3a3c2473bb0be7f11d0babdce&csf=1&web=1&e=kdOeRz)
+- 🔗[S04B_validation_DataAnnotations.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.2_EntityFramework/S02.2%20B_liaisons%20propNavigation.pptx?d=w06da3400208c49e2877be8bcdb1ca89f&csf=1&web=1&e=NGzJmI)
 
 ### Laboratoire: 
-- 🔗‍💥[Fichier instructions du Lab4 ZombieParty](BRISE)
+- Choisir l'assignation 10XX-S02_2_Lab1 dans GitHub Classroom
 
 ### Travail personnel: 
 - Compléter le laboratoire

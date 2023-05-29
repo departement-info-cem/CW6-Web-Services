@@ -1,5 +1,7 @@
 # Rencontre 12.2
 
+🚧 En construction...
+
 ## TP
 Présentation du TP3
 
