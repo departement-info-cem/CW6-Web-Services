@@ -1,5 +1,7 @@
 # Rencontre 3.1
 
+🚧 En construction...
+
 ## Contenu
 - Validations supplémentaires :
   - Conventions et annotations de validation 
