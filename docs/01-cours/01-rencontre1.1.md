@@ -42,7 +42,7 @@
 
 #### Groupe 1010
 - 🔗[GitHub Classroom](https://classroom.github.com/classrooms/129973551-e23progwebtrans-1010)
-#### Groupe 1010
+#### Groupe 1020
 - 🔗[GitHub Classroom](https://classroom.github.com/classrooms/129973551-e23progwebtrans-1020)
 
 Ces liens sont également toujours facilement accessible au bas de la page
