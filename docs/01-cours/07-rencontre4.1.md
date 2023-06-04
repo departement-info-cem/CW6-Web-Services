@@ -3,7 +3,8 @@
 🚧 En construction...
 
 ## TP
-Présentation du TP1
+Présentation du [TP1](/tp/tp1)
+
 
 ## Contenu
 - Views et Models Intégration ThirdParty 
@@ -33,8 +34,8 @@ Présentation du TP1
 - 🔗‍💥[S07C_DataSeed.pptx](BRISE)
 
 ### Laboratoires: 
-- 🔗‍💥[Fichier instructions du laboratoire S07 Lab 1](BRISE)
-- 🔗‍💥[Fichier instructions du laboratoire S07 Lab 2](BRISE)
+- Choisir l'assignation 10XX-S04_1_Lab1 dans GitHub Classroom
+- Choisir l'assignation 10XX-S04_1_Lab2 dans GitHub Classroom
 
 ### Travail personnel: 
 - Compléter les laboratoires

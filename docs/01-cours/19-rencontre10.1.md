@@ -3,4 +3,4 @@
 🚧 En construction...
 
 ## Contenu
-- Travail sur le TP2
+- Travail sur le [TP2](/tp/tp2)

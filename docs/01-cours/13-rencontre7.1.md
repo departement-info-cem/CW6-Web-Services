@@ -3,7 +3,7 @@
 🚧 En construction...
 
 ## TP
-Remise TP1 
+Remise [TP1](/tp/tp1) 
 
 ## Contenu
 - Internationalisation i18n concept 

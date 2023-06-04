@@ -21,7 +21,7 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗‍💥[S06A_PartialViews_ViewModels.pptx](BRISE)
+- 🔗[S03.2 A_PartialViews_ViewModels.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/03.2%20Modeles%20complexes%20VM%20Partial/S03.2%20A_PartialViews_ViewModels.pptx?d=w3ee422588d3740be80d5ee033a8b7d03&csf=1&web=1&e=cfTkxf)
 
 ### Laboratoire: 
 - 🔗‍💥[Fichier instructions du Lab6 ZombieParty](BRISE)

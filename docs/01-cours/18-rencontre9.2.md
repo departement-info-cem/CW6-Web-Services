@@ -3,7 +3,7 @@
 🚧 En construction...
 
 ## TP
-Présentation du TP2
+Présentation du [TP2](/tp/tp2)
 
 ## Contenu
 - Pratique (révision)

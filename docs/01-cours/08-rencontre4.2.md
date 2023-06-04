@@ -1,6 +1,4 @@
 # Rencontre 4.2
 
-🚧 En construction...
-
 ## Contenu
-- Travail sur le TP1
+- Travail sur le [TP1](/tp/tp1)
