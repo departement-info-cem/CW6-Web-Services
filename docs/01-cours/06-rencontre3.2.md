@@ -8,7 +8,6 @@
 - Partial views 
 
 ## Ressources et documentation: 
-- [S06_PartialViews_ViewModels.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-E22-4203W6EM-01010-Profs/Efkt-FT-8j5LhE_f_AkcdfkBRgzGuXTrkd0lv4QSSWLDaQ?e=WFdbIp)
 
 #### Complémentaire: 
 - [Méthodes d'extensions](https://cegepedouardmontpetit.sharepoint.com/:p:/s/EDU-E22-4203W6EM-01010-Profs/Efkt-FT-8j5LhE_f_AkcdfkBRgzGuXTrkd0lv4QSSWLDaQ?e=WFdbIp)
