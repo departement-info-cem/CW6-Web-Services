@@ -1,7 +1,5 @@
 # Rencontre 5.1
 
-🚧 En construction...
-
 ## Contenu
 - Dependency Injections 
 
@@ -12,10 +10,10 @@
 ## Activités de la séance: 
 
 ### Théorie:  
-- 🔗‍💥[S09_DependencyInjection.pptx](BRISE)
+- 🔗[05.1_DependencyInjection](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/05.1_DenpendencyInjections/05.1_DependencyInjection.pptx?d=w0e96193264e94c13aee8a26c40fa3289&csf=1&web=1&e=iquYFg)
 
 ### Laboratoire:
-- 🔗‍💥[Fichier instructions du laboratoire 9](BRISE)
+- Choisir l'assignation 10XX-S05_1_Lab1 dans GitHub Classroom
 
 ### Travail personnel: 
 - Compléter le laboratoire
