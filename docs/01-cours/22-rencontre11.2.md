@@ -3,6 +3,6 @@
 🚧 En construction...
 
 ## Contenu
-- Tests unitaires avec moq: 
-- Tests de views, viewsModels 
-- Tests de controllers 
+- Pratique (révision)  
+    - Tests unitaires 
+    - Moq 

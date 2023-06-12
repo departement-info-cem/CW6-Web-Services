@@ -6,6 +6,6 @@
 - Views et Controllers auto-générés 
 - Validations complexes CRUD Révision: 
   - ViewsModels vs Models  
-  - Views Speciales 
+  - Views Spéciales 
   - Traduction pour les validateurs
 

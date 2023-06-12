@@ -3,9 +3,9 @@
 🚧 En construction...
 
 ## Contenu
-- Tests Models validation perso. 
-- Règles d'affaires 
-- Moq
+- Tests unitaires avec moq:   
+    - Tests de views, viewsModels   
+    - Tests de controllers
 
 ## Ressources et documentation: 
 - [Tests unitaires C#](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)

@@ -3,4 +3,6 @@
 🚧 En construction...
 
 ## Contenu
-- Pratique Views complexes
+- Ilogger    
+- Dédoublement logique d'affaires dans les controllers 
+- Services: règles d'affaires 

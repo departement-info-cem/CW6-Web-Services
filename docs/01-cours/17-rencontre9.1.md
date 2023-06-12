@@ -3,9 +3,12 @@
 🚧 En construction...
 
 ## Contenu
-- Ilogger  
-- Dédoublement logique d'affaires dans les controllers  
-  - Services: règles d'affaires 
+- Pratique (révision)  
+  - I18n  
+  - Javascript  
+  - Ilogger  
+  - Views complexes, ViewModels  
+- Services: règles d'affaires 
 
 ## Activités de la séance: 
 
