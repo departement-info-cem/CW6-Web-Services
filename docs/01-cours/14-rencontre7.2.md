@@ -1,7 +1,5 @@
 # Rencontre 7.2
 
-🚧 En construction...
-
 ## Contenu
 - Internationalisation i18n 
   - Traduction Views
@@ -14,7 +12,7 @@
 ## Activités de la séance: 
 
 ### Théorie:  
-- 🔗‍💥[S14_i18n_ViewsControllers.pptx](BRISE) 
+- 🔗[S07.2_i18n_ViewsControllers](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/07.2%20i18n_ViewsControllers/S07.2_i18n_ViewsControllers.pptx?d=w85c673d8ebfb43bcb7e1e89d5dbbc900&csf=1&web=1&e=ed5Gsz) 
 
 ### Laboratoire: ZombieParty 
 - Choisir l'assignation 10XX-S07_2_Lab1 dans GitHub Classroom 
