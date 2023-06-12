@@ -3,7 +3,7 @@
 🚧 En construction...
 
 ## TP
-Remise TP1 
+Remise [TP1](/tp/tp1) 
 
 ## Contenu
 - Internationalisation i18n concept 
@@ -24,7 +24,7 @@ Remise TP1
 - 🔗‍💥[S13_i18n_Models.pptx](BRISE)
 
 ### Laboratoire: ZombieParty 
-- 🔗‍💥[Fichier instructions du laboratoire S13 Lab 1](BRISE)
+- Choisir l'assignation 10XX-S07_1_Lab1 dans GitHub Classroom
 
 ### Travail personnel:
 - Compléter le laboratoire 

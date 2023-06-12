@@ -3,12 +3,7 @@
 🚧 En construction...
 
 ## TP
-Présentation du TP2
+Présentation du [TP2](/tp/tp2)
 
-## Contenu
-- Pratique (révision)
-  - I18n
-  - Javascript
-  - Ilogger
-  - Views complexes, ViewModels
-  - Services: règles d'affaires 
+### Laboratoires: 
+Travail sur le [TP2](/tp/tp2)

@@ -3,10 +3,10 @@
 🚧 En construction...
 
 ## TP
-Présentation du TP3
+Présentation du [TP3](/tp/tp3)
 
 ## Contenu
-- Travail sur le TP3
+- Travail sur le [TP3](/tp/tp3)
 
 
 

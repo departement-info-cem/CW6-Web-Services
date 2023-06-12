@@ -17,7 +17,7 @@
 - 🔗‍💥[S14_i18n_ViewsControllers.pptx](BRISE) 
 
 ### Laboratoire: ZombieParty 
-- 🔗‍💥[Fichier instructions du laboratoire S14 Lab 1](BRISE) 
+- Choisir l'assignation 10XX-S07_2_Lab1 dans GitHub Classroom 
  
 ### Travail personnel:
 - Compléter le laboratoire 

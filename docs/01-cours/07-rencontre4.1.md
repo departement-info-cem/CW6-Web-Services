@@ -1,16 +1,9 @@
 # Rencontre 4.1
 
-🚧 En construction...
-
 ## TP
-Présentation du TP1
+Présentation du [TP1](/tp/tp1)
 
 ## Contenu
-- Views et Models Intégration ThirdParty 
-  - TextArea 
-  - Gestion des images 
-- Validation : notifications Toastr 
-  - Rappel ViewBag et ViewData 
 - Méthodes asynchrones 
 
 ## Ressources et documentation: 
@@ -25,16 +18,12 @@ Présentation du TP1
 #### Complémentaire: 
 - [SweetAlert2(Notifications)](https://sweetalert2.github.io/)
 
-
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗‍💥[S07A_ChampsSpeciaux_Images_Notifications.pptx](BRISE)
-- 🔗‍💥[S07B_Methodes_Asynchrones.pptx](BRISE)
-- 🔗‍💥[S07C_DataSeed.pptx](BRISE)
+- 🔗[S04.1_Methodes_Asynchrones](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/04.1%20Asynchrones%20TP1/S04.1_Methodes_Asynchrones.pptx?d=w0f6e6609fd09461ebc775aef067062eb&csf=1&web=1&e=4fGvZP)
 
 ### Laboratoires: 
-- 🔗‍💥[Fichier instructions du laboratoire S07 Lab 1](BRISE)
-- 🔗‍💥[Fichier instructions du laboratoire S07 Lab 2](BRISE)
+Travail sur le [TP1](/tp/tp1)
 
 ### Travail personnel: 
 - Compléter les laboratoires
