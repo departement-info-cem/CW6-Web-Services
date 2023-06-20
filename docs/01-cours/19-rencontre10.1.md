@@ -20,12 +20,10 @@
 ## Activités de la séance: 
 
 ### Théorie:  
-- 🔗‍💥[S18 taxonomieDesTests.pptx](BRISE)
+- 🔗‍💥[???](BRISE)
 
 ### Laboratoire:  
-- 🔗‍💥[Fichier instructions du laboratoire S18](BRISE)
-- 🔗‍💥[Appl_TestsUnitaires: S18_Lab1_Instructions](BRISE) 
-- 🔗‍💥[PresseMots: Laboratoire_Instructions](BRISE) 
+- Choisir l'assignation 10XX-S010_1_Lab1 dans GitHub Classroom
 
 ### Travail personnel: 
 - Compléter les laboratoires 
