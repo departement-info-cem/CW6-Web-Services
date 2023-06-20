@@ -1,7 +1,5 @@
 # Rencontre 9.1
 
-🚧 En construction...
-
 ## Contenu
 - Pratique (révision)  
   - I18n  
@@ -13,10 +11,9 @@
 ## Activités de la séance: 
 
 ### Théorie:  
-- 🔗‍💥[S16 Les services.pptx](BRISE) 
 
 ### Laboratoire: ZombieParty 
-- 🔗‍💥[Fichier instructions du laboratoire S16 Lab 1](BRISE) 
+- Choisir l'assignation 10XX-S09_1_Lab2 dans GitHub Classroom
 
 ### Travail personnel: 
 - Compléter le laboratoire 
