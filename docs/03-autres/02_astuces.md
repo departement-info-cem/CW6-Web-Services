@@ -19,7 +19,7 @@ Il faut biensûr remplacer **NOM_COMPLET_DU_MODEL_AVEC_NAMESPACE**, **NOM_COMPLE
 
 Voici des exemples de valeurs :
 
-| Variable | Valeur |
+| Variable | Valeur | 
 | :--- | :--- |
 | NOM_COMPLET_DU_MODEL_AVEC_NAMESPACE | PresseMots_Web.Models.User |
 | NOM_COMPLET_DU_CONTEXT_AVEC_NAMESPACE | PresseMots_Web.Models.Data.PresseMotsDbContext |
@@ -29,6 +29,12 @@ On aurait donc ceci avec notre exemple :
 
 ```
 dotnet aspnet-codegenerator controller -m PresseMots_Web.Models.User -dc PresseMots_Web.Models.Data.PresseMotsDbContext -scripts -udl -outDir Controllers -name UsersController -async -actions
+```
+
+Si vous avez une erreur comme quoi la commande n'est pas trouvée, vous devez installer l'outil (déjà installé sur les postes du CEGEP)
+
+```
+dotnet tool install --global dotnet-aspnet-codegenerator --version 6.0.13
 ```
 
 :::warning
