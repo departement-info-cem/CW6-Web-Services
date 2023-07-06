@@ -1,7 +1,7 @@
 const config = {
-    nom: "3W6 - Programmation Web Transactionnelle​",
-    description: "Site de référence du cours de Programmation Web Transactionnelle",
-    nomUrl: "3W6-Web-Transactionelle"
+    nom: "BW5 - Programmation Web Transactionnelle​",
+    description: "Site de référence du cours de Programmation Web Transactionnelle pour la formation continue",
+    nomUrl: "BW5-Web-Transactionelle"
 }
 
 module.exports = config;
