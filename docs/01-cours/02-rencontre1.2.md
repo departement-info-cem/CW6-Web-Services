@@ -12,8 +12,6 @@
 
 ## Ressources et documentation: 
 #### Complémentaire: 
-- [Standards C# Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-- [Standards C#](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
 - [Raccourcis Visual Studio](https://cegepedouardmontpetit.sharepoint.com/:b:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/01.2_Views_ViewsModels_Annotations/keyboard-shortcutsVisualStudio.pdf?csf=1&web=1&e=folaFE)
 
 ## Activités de la séance: 
