@@ -48,7 +48,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "🚧" + siteConfig.nom,
+        title: siteConfig.nom,
         logo: {
           alt: "Logo CEM",
           src: "img/logo.svg",
@@ -81,13 +81,9 @@ const config = {
             title: "Github Classroom E2023",
             items: [
               {
-                label: "Groupe 1010",
-                href: `https://classroom.github.com/classrooms/129973551-e23progwebtrans-1010`,
-              },
-              {
-                label: "Groupe 1020",
-                href: `https://classroom.github.com/classrooms/129973551-e23progwebtrans-1020`,
-              },
+                label: "Groupe 6139",
+                href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
+              }
             ],
           },
         ],
