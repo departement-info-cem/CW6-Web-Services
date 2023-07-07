@@ -6,7 +6,7 @@
 ## Génération(scaffolding) d'un contrôleur avec la ligne de commande 
 ### Pratique lorsque l'on a des erreurs!!
 
-Vous pouvez prendre le temps de lire les [notes de cours](BRISE) ou alors suivre les directives suivantes
+Vous pouvez prendre le temps de lire les [notes de cours](/docs/01-cours/BRISE.md) ou alors suivre les directives suivantes
 
 
 Pour générer le contrôleur et les vues d'un modèle (ou ViewModel), voici la commande si ça ne fonctionne pas avec l'interface graphique :
