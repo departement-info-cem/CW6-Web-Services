@@ -24,9 +24,7 @@
 ### Démo guidée:
 - S01.2_Demo1 CrazyBooks Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S01.2_Demo1)
 
-### Laboratoires:
-
-#### Groupe 6139
+### Laboratoire:
 - S01.2_Lab1 ZombieParty 🔗[GitHub](https://github.com/ProgWebTransFC/S01.2_Lab1)
 
 ### Travail personnel: 

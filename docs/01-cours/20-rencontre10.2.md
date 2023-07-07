@@ -8,10 +8,12 @@
 ## Activités de la séance: 
 
 ### Théorie:  
-- 🔗[S10.2 Moq](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/10.2%20Tests%20Unitaires%20Moq/S10.2%20Moq.pptx?d=wc0c32c4e9d1f4633911d135fa3e0b523&csf=1&web=1&e=QTOeT4)
+- 🔗[S10.2 Moq](https://cegepedouardmontpetit.sharepoint.com/:i:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/00_Gestion/EnConstruction.PNG?csf=1&web=1&e=nzggbd)
 
-### Laboratoire:  
-- Choisir l'assignation 10XX-S010_2_Lab1 dans GitHub Classroom
+### Démo guidée:
+- S10.2_Demo CrazyBooks Faites un *Fork*🔗‍💥[GitHub](BRISE)
+### Laboratoire:
+- S10.2_Lab1 ZombieParty 🔗‍💥[GitHub](BRISE) 
 
 ### Travail personnel: 
 - Compléter les laboratoires 

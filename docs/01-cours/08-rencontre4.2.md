@@ -1,20 +1,24 @@
 # Rencontre 4.2
 
-## Contenu
-- Views et Models Intégration ThirdParty 
-  - TextArea 
-  - Gestion des images 
-- Validation : notifications Toastr 
-  - Rappel ViewBag et ViewData 
+## TP
+Présentation du [TP1](/tp/tp1)
+
+## Ressources et documentation: 
+- [FontAwesome](https://fontawesome.com/)
+- [W3Schools_Input_Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [Summernote (textArea)](https://summernote.org/)
+- [Toastr (Notifications)](https://codeseven.github.io/toastr/) 
+- [MSDN UploadFiles](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0) 
+- [W3School_enctype_multipart/form-data](https://www.w3schools.com/tags/att_form_enctype.asp)
+- [Bogus: Faker](https://github.com/bchavez/Bogus)
+
+#### Complémentaire: 
+- [SweetAlert2(Notifications)](https://sweetalert2.github.io/)
 
 ## Activités de la séance: 
-### Théorie:
-- 🔗[S04.2 A_ChampsSpeciaux_Images_Notifications](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/04.2_ThirdParty%20Images%20Notifications/S04.2%20A_ChampsSpeciaux_Images_Notifications.pptx?d=w45948f510a154431a5bf275603107ada&csf=1&web=1&e=6OyTc5)
-- 🔗[S04.2 B_DataSeed](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/04.2_ThirdParty%20Images%20Notifications/S04.2%20B_DataSeed.pptx?d=w6db66b1aeefb4d7a8e266af18cf563bd&csf=1&web=1&e=vZT8AE)
 
 ### Laboratoires: 
-- Choisir l'assignation 10XX-S04_2_Lab1 dans GitHub Classroom
-- Choisir l'assignation 10XX-S04_2_Lab2 dans GitHub Classroom
+Travail sur le [TP1](/tp/tp1)
 
 ### Travail personnel: 
-- Compléter les laboratoires
+- Compléter les laboratoires- et le TP1

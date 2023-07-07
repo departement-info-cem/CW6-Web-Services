@@ -3,8 +3,4 @@
 🚧 En construction...
 
 ## Examen
-Révision pour l'examen final
-
-## Contenu
-- Déploiement
-
+Examen final

@@ -15,11 +15,13 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S02.2 A_EntityFramework.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.2_EntityFramework/S02.2%20A_EntityFramework.pptx?d=w7d9fd4c3a3c2473bb0be7f11d0babdce&csf=1&web=1&e=kdOeRz)
-- 🔗[S02.2 B_liaisons propNavigation](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.2_EntityFramework/S02.2%20B_liaisons%20propNavigation.pptx?d=w06da3400208c49e2877be8bcdb1ca89f&csf=1&web=1&e=NGzJmI)
+- 🔗[S02.2 A_EntityFramework.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/02.2_Entity%20Framework/S02.2%20A_EntityFramework.pptx?d=wa211cc16482741dc968dd6861182fac7&csf=1&web=1&e=R19BdO)
+- 🔗[S02.2 B_liaisons propNavigation](https://cegepedouardmontpetit.sharepoint.com/:p:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/02.2_Entity%20Framework/S02.2%20B_liaisons%20propNavigation.pptx?d=w032a93ce3605411ba052e449c7a541c1&csf=1&web=1&e=3Kdail)
 
+### Démo guidée:
+- S02.2_Demo1 CrazyBooks Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02.2_Demo)
 ### Laboratoire: 
-- Choisir l'assignation 10XX-S02_2_Lab1 dans GitHub Classroom
+- S02.2_Lab1 ZombieParty 🔗[GitHub](https://github.com/ProgWebTransFC/S02.2_Lab1)
 
 ### Travail personnel: 
 - Compléter le laboratoire

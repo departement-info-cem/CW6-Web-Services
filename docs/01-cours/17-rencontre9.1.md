@@ -3,17 +3,16 @@
 ## Contenu
 - Pratique (révision)  
   - I18n  
-  - Javascript  
+  - Javascript/JQuery Ajax  
   - Ilogger  
   - Views complexes, ViewModels  
 - Services: règles d'affaires 
 
 ## Activités de la séance: 
 
-### Théorie:  
+### Laboratoire: 
+- S09.1_Lab1 BookLibrary - 🔗‍💥[GitHub](BRISE)
 
-### Laboratoire: ZombieParty 
-- Choisir l'assignation 10XX-S09_1_Lab2 dans GitHub Classroom
-
+- S09.1_Lab2 JQuery Ajax - 🔗‍💥[GitHub](BRISE)
 ### Travail personnel: 
 - Compléter le laboratoire 

@@ -1,6 +1,7 @@
 # Rencontre 14.2
 
-🚧 En construction...
 
-## Examen
-Examen final
+## Contenu
+- Travail sur le [TP3](/tp/tp3)
+
+

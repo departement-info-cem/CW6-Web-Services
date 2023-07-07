@@ -1,9 +1,5 @@
 # Rencontre 12.1
 
-🚧 En construction...
-
-## TP
-Remise du [TP2](/tp/tp2)
 
 ## Contenu
 - Authentification MS Identity  
@@ -19,9 +15,10 @@ Remise du [TP2](/tp/tp2)
 ## Activités de la séance: 
 
 ### Théorie: 
-- 🔗‍💥[S24_Authentification_Identity.pptx](BRISE) 
-- 🔗‍💥[S25_Autorisations.pptx](BRISE) 
+- 🔗‍💥[S12.1_A_Authentification_Identity.pptx](BRISE) 
+- 🔗‍💥[S12.1_B_Autorisations.pptx](BRISE) 
 
 ## Laboratoire: 
-- 🔗‍💥[S25 Laboratoire instructions](BRISE)
+- 🔗‍💥[S12.1 Laboratoire instructions](BRISE)
+- Remise du [TP2](/tp/tp2)
 
