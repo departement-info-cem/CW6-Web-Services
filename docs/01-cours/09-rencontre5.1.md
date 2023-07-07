@@ -1,13 +1,20 @@
 # Rencontre 5.1
 
-## Contenu
-- Révision pour l'examen intra
+## Examen Intra  
+### Sujets couverts
+- GitHub
+- EF
+- Views
+- PartialViews
+- ViewModels
+- TagHelper
+- Annotations
+- Validation
+- Asynchrones
+- Dependency Injections 
 
-## Activités de la séance
-
-  - Wooclap!!
- ### Laboratoire: 
-- S05.1_Lab1 PresseMots - 🔗‍💥[GitHub](BRISE)
+### Activités de la séance: 
+- Examen intra (2.25hrs => 3hrs). Théorique: réponses courtes, mini études de cas.
 
 ### Travail personnel: 
-- Révision en prévision de l'examen et terminé le TP1
+- Aucun 

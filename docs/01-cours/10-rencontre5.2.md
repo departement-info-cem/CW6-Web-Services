@@ -1,20 +1,24 @@
 # Rencontre 5.2
 
-## Examen Intra  
-### Sujets couverts
-- GitHub
-- EF
-- Views
-- PartialViews
-- ViewModels
-- TagHelper
-- Annotations
-- Validation
-- Asynchrones
-- Dependency Injections 
+## TP
+Présentation du [TP1](/tp/tp1)
 
-### Activités de la séance: 
-- Examen intra (2.25hrs => 3hrs). Théorique: réponses courtes, mini études de cas.
+## Ressources et documentation: 
+- [FontAwesome](https://fontawesome.com/)
+- [W3Schools_Input_Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [Summernote (textArea)](https://summernote.org/)
+- [Toastr (Notifications)](https://codeseven.github.io/toastr/) 
+- [MSDN UploadFiles](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0) 
+- [W3School_enctype_multipart/form-data](https://www.w3schools.com/tags/att_form_enctype.asp)
+- [Bogus: Faker](https://github.com/bchavez/Bogus)
+
+#### Complémentaire: 
+- [SweetAlert2(Notifications)](https://sweetalert2.github.io/)
+
+## Activités de la séance: 
+
+### Laboratoires: 
+Travail sur le [TP1](/tp/tp1)
 
 ### Travail personnel: 
-- Aucun 
+- Compléter les laboratoires- et le TP1
