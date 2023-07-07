@@ -13,10 +13,13 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S03.1 A_Linq Seed](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/03.1_Linq_Seed/S03.1%20A_Linq%20Seed.pptx?d=wa8a730cef0f34a23914dc2533c96c986&csf=1&web=1&e=jWeAom)
+- 🔗[S03.1 A_Linq Seed](https://cegepedouardmontpetit.sharepoint.com/:p:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/03.1_Linq_Seed/S03.1%20A_Linq%20Seed.pptx?d=w26b102617eb44e72b7af16a4fb5dce3b&csf=1&web=1&e=yCtfzj)
+
+### Démo guidée:
+- S03.1_Demo CrazyBooks Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S03.1_Demo.git)
 
 ### Laboratoire: 
-- Choisir l'assignation 10XX-S03_1_Lab1 dans GitHub Classroom
+- S03.1_Lab1 ZombieParty 🔗[GitHub](https://github.com/ProgWebTransFC/S03.1_Lab1)
 
 ### Travail personnel: 
 - Compléter le Laboratoire

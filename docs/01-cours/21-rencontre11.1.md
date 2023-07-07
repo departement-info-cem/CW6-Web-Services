@@ -1,9 +1,7 @@
 # Rencontre 11.1
 
-🚧 En construction...
-
 ## Contenu
-- Tests unitaires avec moq:   
+- Pratique Tests unitaires avec moq:   
     - Tests de views, viewsModels   
     - Tests de controllers
 
@@ -13,11 +11,8 @@
 
 ## Activités de la séance: 
 
-### Théorie:  
-- 🔗‍💥[S19_Moq.pptx](BRISE)
-
-### Laboratoire:  
-- 🔗‍💥[Fichier instructions du laboratoire S19](BRISE)
+### Laboratoire: 
+- S11.1_Lab1 CaliforniaHotel 🔗‍💥[GitHub](BRISE) 
 
 ### Travail personnel: 
 - Compléter le laboratoire

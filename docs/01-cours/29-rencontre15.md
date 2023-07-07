@@ -1,6 +1,6 @@
-# Rencontre 15.1
+# Rencontre 15
 
-🚧 En construction...
 
 ## Contenu
+- Remise du [TP3](/tp/tp3)
 - Travail sur le [TP3](/tp/tp3)

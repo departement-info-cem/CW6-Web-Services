@@ -11,13 +11,13 @@
 
 ## Activités de la séance: 
 ### Théorie
+- 🔗[S02.1_Modélisation.pptx](https://cegepedouardmontpetit.sharepoint.com/:p:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/02.1_Modelisation/S02.1_Modelisation.pptx?d=wc5868de604494afda64538c1d4431864&csf=1&web=1&e=sKcsoL)
+- 🔗[Rappel BD Relations.pdf](https://cegepedouardmontpetit.sharepoint.com/:b:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/02.1_Modelisation/Rappel_BD_Relations.pdf?csf=1&web=1&e=bRnJ6t)
+
 - Wooclap!
-- 🔗[S02.1_Modélisation.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.1_Modelisations/S02.1_Modelisation.pptx?d=w2cd7f948ce564104ba8c1cae5154cbc5&csf=1&web=1&e=llxS05)
-- 🔗[Rappel BD Relations.pdf](https://cegepedouardmontpetit-my.sharepoint.com/:b:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/02.1_Modelisations/Rappel_BD_Relations.pdf?csf=1&web=1&e=Ew512F)
-
-
 ### Laboratoire
-- Choisir l'assignation 10XX-S02_1_Lab1 dans GitHub Classroom
+#### Groupe 6139
+- S02.1_Lab1 ZombieParty 🔗[GitHub](https://github.com/ProgWebTransFC/S02.1_Lab1)
 
 ### Travail personnel: 
 - Compléter le laboratoire

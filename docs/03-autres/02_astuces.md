@@ -1,12 +1,12 @@
 # Astuces
 
-## Lien vers l'ensemble des documents partagés sur sharepoint:
-[Dossier Partagé](https://cegepedouardmontpetit-my.sharepoint.com/:f:/g/personal/valerie_turgeon_cegepmontpetit_ca/ElbcBszBEZFGleV3zNvtMosBjDi62tWi9pyD7uVZwJk0ig?e=Xhcwya)
+## Lien vers l'ensemble des Repositories du cours:
+[Dossier Partagé](https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name)
 
 ## Génération(scaffolding) d'un contrôleur avec la ligne de commande 
 ### Pratique lorsque l'on a des erreurs!!
 
-Vous pouvez prendre le temps de lire les [notes de cours](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/Site_3W6_Partage/08.1%20VuesControleurs%20autogeneres/S08.1_Generer%20les%20vues%20avec%20console.pptx?d=w25f7099d17b8472baf531cde3223753d&csf=1&web=1&e=XYQLa7) ou alors suivre les directives suivantes
+Vous pouvez prendre le temps de lire les [notes de cours](BRISE) ou alors suivre les directives suivantes
 
 
 Pour générer le contrôleur et les vues d'un modèle (ou ViewModel), voici la commande si ça ne fonctionne pas avec l'interface graphique :

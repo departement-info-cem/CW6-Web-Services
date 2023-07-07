@@ -1,13 +1,22 @@
 # Rencontre 6.1
 
 ## Contenu
-- Révision pour l'examen intra
+- Views et Models Intégration ThirdParty 
+  - TextArea 
+  - Gestion des images 
+- Validation : notifications Toastr 
+  - Rappel ViewBag et ViewData 
 
-## Activités de la séance
+## Activités de la séance: 
+### Théorie:
+- 🔗[S06.1 A_ChampsSpeciaux_Images_Notifications](BRISE)
+- 🔗[S06.1 B_DataSeed](BRISE)
 
-### Laboratoires: Révision le PresseMots 
-  - Wooclap!!
-  - Choisir l'assignation 10XX-S05_2_Lab1 dans GitHub Classroom
+### Démo guidée:
+- S06.1_Demo CrazyBooks Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+
+### Laboratoire: 
+- S06.1_Lab1 ZombieParty - 🔗‍💥[GitHub](BRISE)
 
 ### Travail personnel: 
-- Révision en prévision de l'examen et terminé le TP1
+- Compléter les laboratoires
