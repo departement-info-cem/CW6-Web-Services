@@ -1,13 +1,24 @@
 # Rencontre 4.2
 
-## Contenu
-- Révision pour l'examen intra
+## TP
+Présentation du [TP1](/tp/tp1)
 
-## Activités de la séance
+## Ressources et documentation: 
+- [FontAwesome](https://fontawesome.com/)
+- [W3Schools_Input_Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [Summernote (textArea)](https://summernote.org/)
+- [Toastr (Notifications)](https://codeseven.github.io/toastr/) 
+- [MSDN UploadFiles](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-5.0) 
+- [W3School_enctype_multipart/form-data](https://www.w3schools.com/tags/att_form_enctype.asp)
+- [Bogus: Faker](https://github.com/bchavez/Bogus)
 
-  - Wooclap!!
- ### Laboratoire: 
-- S04.2_Lab1 PresseMots - 🔗‍💥[GitHub](BRISE)
+#### Complémentaire: 
+- [SweetAlert2(Notifications)](https://sweetalert2.github.io/)
+
+## Activités de la séance: 
+
+### Laboratoires: 
+Travail sur le [TP1](/tp/tp1)
 
 ### Travail personnel: 
-- Révision en prévision de l'examen et terminé le TP1
+- Compléter les laboratoires et le TP1

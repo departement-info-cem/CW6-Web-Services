@@ -1,6 +1,7 @@
 # Rencontre 6.2
 
 ## Contenu
+- Dependency Injection
 - Introduction à Javascript 
 - JS et views
 - HotReload 

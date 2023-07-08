@@ -2,8 +2,21 @@
 
 
 ## Contenu
-- Présentation du [TP3](/tp/tp3)
-- Travail sur le [TP3](/tp/tp3)
+- Autorisations types: 
+  - Par rôle 
+  - Seed rôles (Initializer) 
+- Annotations dans les Controllers
+
+## Ressources et documentation: 
+
+#### Complémentaire: 
 
 
+## Activités de la séance: 
+
+### Théorie: 
+- 🔗‍💥[S12.2_Autorisations.pptx](BRISE) 
+
+## Laboratoire: 
+- 🔗‍💥[S12.2 Laboratoire instructions](BRISE)
 
