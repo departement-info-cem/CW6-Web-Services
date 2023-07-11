@@ -22,7 +22,7 @@
 ### Démo guidée:
 - S03.2_Demo CrazyBooks Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S03.2_Demo)
 ### Laboratoire: 
-- S03.2_Lab1 ZombieParty 🔗[GitHub](https://github.com/ProgWebTransFC/S03.2_Demo)
+- S03.2_Lab1 ZombieParty 🔗[GitHub](https://github.com/ProgWebTransFC/S03.2_Lab1)
 
 
 ### Travail personnel: 
