@@ -16,12 +16,12 @@
 ## Activités de la séance: 
 
 ### Théorie:  
-- 🔗S07.1_i18n_Models - 🔗‍💥[GitHub](BRISE)
+- 🔗[S07.1_i18n_Models](https://cegepedouardmontpetit.sharepoint.com/:p:/r/sites/EDU-E23-420BW5EM-06139/Supports%20de%20cours/07.1%20i18n_Models/S07.1_i18n_Models.pptx?d=w95bd429048684589bda90d1055aad0e6&csf=1&web=1&e=KCeFGm)
 
-### Démo guidée:
-- S07.1_Demo CrazyBooks Faites un *Fork* - 🔗‍💥[GitHub](BRISE)
+<!-- ### Démo guidée:
+- S07.1_Demo CrazyBooks Faites un *Fork* - 🔗‍💥[GitHub](BRISE) -->
 ### Laboratoire: ZombieParty 
-- S07.1_Lab1 ZombieParty - 🔗‍💥[GitHub](BRISE)
+- S07.1_Lab1 ZombieParty - 🔗[GitHub](https://github.com/ProgWebTransFC/S07.1_Lab1/tree/main)
 
 ### Travail personnel:
 - Compléter le laboratoire 
