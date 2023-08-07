@@ -26,8 +26,8 @@
 - S06.2_Demo2 Divers Faites un *Fork* - 🔗‍💥[GitHub](https://github.com/ProgWebTransFC/S06.2_Demo)
 
 ### Laboratoire: 
-- S06.2_Lab1 DependencyInjections ZombieParty - 🔗‍💥[GitHub](https://github.com/ProgWebTransFC/S06.2_Lab1)
-- S06.2_Lab2 Divers JavaScript - 🔗‍💥[GitHub](https://github.com/ProgWebTransFC/S06.2_Lab2)
+- S06.2_Lab1 DependencyInjections ZombieParty - 🔗[GitHub](https://github.com/ProgWebTransFC/S06.2_Lab1)
+- S06.2_Lab2 Divers JavaScript - 🔗[GitHub](https://github.com/ProgWebTransFC/S06.2_Lab2)
 
 ### Travail personnel: 
 - Compléter les laboratoires
