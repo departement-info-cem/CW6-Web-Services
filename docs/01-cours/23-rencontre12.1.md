@@ -11,7 +11,11 @@
 
 #### Complémentaire: 
 
+:::caution
+Si la génération via VS ne fonctionne pas, utilisez la commande suivante dans PowerShell
+:::
 
+dotnet aspnet-codegenerator identity --useDefaultUI
 ## Activités de la séance: 
 
 ### Théorie: 
