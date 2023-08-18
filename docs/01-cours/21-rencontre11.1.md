@@ -12,7 +12,7 @@
 ## Activités de la séance: 
 
 ### Laboratoire: 
-- S11.1_Lab1 CaliforniaHotel 🔗‍💥[GitHub](BRISE) 
+- S11.1_Lab1 CaliforniaHotel 🔗[GitHub](https://github.com/ProgWebTransFC/S11.1_Lab1) 
 
 ### Travail personnel: 
 - Compléter le laboratoire
