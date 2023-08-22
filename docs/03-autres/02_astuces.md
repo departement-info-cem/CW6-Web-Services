@@ -1,7 +1,8 @@
 # Astuces
 
 ## Lien vers l'ensemble des Repositories du cours:
-[Dossier Partagé](https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name)
+[Dossier Partagé](https://cegepedouardmontpetit-my.sharepoint.com/:f:/g/personal/valerie_turgeon_cegepmontpetit_ca/Ev4ITRcpwldAjM-n1KMv0foBOD-QC6h-636O8b6xes0h6Q?e=bKJfMd)
+[GitHub Repositories](https://github.com/orgs/ProgWebTransFC/repositories)
 
 ## Génération(scaffolding) d'un contrôleur avec la ligne de commande 
 ### Pratique lorsque l'on a des erreurs!!
@@ -34,7 +35,7 @@ dotnet aspnet-codegenerator controller -m PresseMots_Web.Models.User -dc PresseM
 Si vous avez une erreur comme quoi la commande n'est pas trouvée, vous devez installer l'outil (déjà installé sur les postes du CEGEP)
 
 ```
-dotnet tool install --global dotnet-aspnet-codegenerator --version 6.0.13
+dotnet tool install --global dotnet-aspnet-codegenerator --version 6.0.21
 ```
 
 :::warning
