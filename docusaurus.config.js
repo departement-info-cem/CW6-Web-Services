@@ -56,15 +56,21 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "cours/rencontre1.1",
+            docId: "cours/rencontre01",
             position: "left",
             label: "Cours",
           },
           {
             type: "docSidebar",
             position: "left",
-            sidebarId: "tp",
-            label: "Travaux Pratiques",
+            sidebarId: "tp_FC",
+            label: "Travaux Pratiques FC",
+          },
+          {
+            type: "docSidebar",
+            position: "left",
+            sidebarId: "tp_Regulier",
+            label: "Travaux Pratiques Régulier",
           },
           {
             type: "docSidebar",
