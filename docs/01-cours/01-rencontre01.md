@@ -26,7 +26,7 @@
 #### Complémentaire 
 - [Standards C# Microsoft](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 - [Standards C#](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
-
+- [GitKraken commandes Git](https://cegepedouardmontpetit.sharepoint.com/:b:/r/sites/EDU-E23-420BW5EM-06139/Documents%20partages/General/gitkraken-git-basics-cheat-sheet.pdf?csf=1&web=1&e=oaWhM2)
 ## Activités de la séance
 
 ### Théorie:
