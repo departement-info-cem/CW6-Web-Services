@@ -29,7 +29,7 @@
 
 ### Laboratoire:
 - S02_Lab1 ZombieParty - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02_Lab1.git)
-- S02_Lab2 Classes UML - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02_Lab1.git)
+- S02_Lab2 Classes UML - Faites un *Fork* - 🔗[GitHub](https://github.com/ProgWebTransFC/S02_Lab2)
 
 ### Travail personnel: 
 - Compléter les laboratoires
