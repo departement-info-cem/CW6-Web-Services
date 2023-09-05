@@ -1,9 +1,12 @@
 # Rencontre 18
 
-## TP
-Présentation du Travail pratique 2
-- Groupes Régulier: 1010 et 1020: [TP2](/tp_Regulier/tp2)
-- Groupe Formation continue 6139: [TP2](/tp_FC/tp2)
+## Examen
+# Contenu Examen final
+- Manipuler les modules
+- Gérer les images
+- Utiliser des librairies UI
+- Créer un application Web API
+- Implémenter MS identy avec tokens
+- Gérer les autorisations (rôles)
+- 
 
-### Laboratoires: 
-Travail sur le TP2

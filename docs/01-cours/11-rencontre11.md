@@ -1,14 +1,25 @@
 # Rencontre 11
 
 ## Contenu
-- Révision pour l'examen intra
+- Restfull
+- Web API
+- Angular
+- Les cors
 
-## Activités de la séance
-  - Wooclap!!
+## Ressources et documentation: 
+
+#### Complémentaire: 
 
 
- ### Laboratoire: 
-- S11_Lab1 PresseMots - Faites un *Fork* - 🔗[GitHub](BRISE)
+## Activités de la séance: 
+### Théorie:  
 
+
+### Démo:
+
+
+### Laboratoire: 
+
+ 
 ### Travail personnel: 
-- Révision en prévision de l'examen et terminé le TP1
+- Compléter le laboratoire

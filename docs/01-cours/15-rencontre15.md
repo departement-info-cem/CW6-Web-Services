@@ -1,26 +1,26 @@
 # Rencontre 15
 
 ## Contenu
-- Views et Controllers auto-générés 
-- Validations complexes CRUD Révision: 
-  - ViewsModels vs Models  
-  - Views Spéciales 
-  - Traduction pour les validateurs
+- Formulaire Angular 
+  - Envoyer un fichier à l’API
+- Feedback de requête échouée 
+- Entity Framework : relation double
+
 
 ## Ressources et documentation: 
 
-#### Complémentaire:
+#### Complémentaire: 
 
 
 ## Activités de la séance: 
 ### Théorie:  
-- 🔗[S15_Generer les vues.pptx](BRISE)
+
 
 ### Démo:
-- S15_Demo1 CrazyBooks - Faites un *Fork* - 🔗[GitHub](BRISE)
+
 
 ### Laboratoire: 
-- S15_Lab1 Services ZombieParty - Faites un *Fork* - 🔗[GitHub](BRISE)
+
  
-### Travail personnel:
+### Travail personnel: 
 - Compléter le laboratoire

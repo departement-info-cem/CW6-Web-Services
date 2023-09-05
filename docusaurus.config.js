@@ -69,12 +69,6 @@ const config = {
           {
             type: "docSidebar",
             position: "left",
-            sidebarId: "tp_Regulier",
-            label: "Travaux Pratiques Régulier",
-          },
-          {
-            type: "docSidebar",
-            position: "left",
             sidebarId: "autres",
             label: "Autres",
           },

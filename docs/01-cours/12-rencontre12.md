@@ -1,22 +1,24 @@
 # Rencontre 12
+## Contenu
+- Gestion des comptes et droits d’accès 
+  - MS Identity
+  - Système de gestion Users, rôles
+  - Retour et suite les tokens 
 
-## Examen Intra  
-### Sujets couverts
-- GitHub
-- EF
-- Views
-- PartialViews
-- ViewModels
-- TagHelper
-- Annotations
-- Validation
-- Asynchrones
-- Dependency Injections 
+## Ressources et documentation: 
 
-### Activités de la séance: 
-- Examen intra 
-- - Théorique: réponses courtes, mini études de cas.
-- - Pratique: Compléter ou corriger le code.
+#### Complémentaire: 
 
+
+## Activités de la séance: 
+### Théorie:  
+
+
+### Démo:
+
+
+### Laboratoire: 
+
+ 
 ### Travail personnel: 
-- Aucun 
+- Compléter le laboratoire
