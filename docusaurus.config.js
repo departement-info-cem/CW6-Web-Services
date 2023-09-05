@@ -82,11 +82,7 @@ const config = {
             items: [
               {
                 label: "Groupe 6139",
-                href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
-              },
-              {
-                label: "Groupes 1010-1020",
-                href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
+                href: `https://github.com/orgs/ProgWebServicesFC/repositories?q=&type=all&sort=name`,
               }
             ],
           },

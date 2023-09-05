@@ -4,7 +4,7 @@
 ### Groupe 6139
 | Date |          |
 | :--------------- |:---------------:|
-| Vendredi 15 septembre | Examen intra |
-| Lundi 18 septembre | Remise TP1 |
-| Vendredi 18 octobre |Examen final|
-| Vendredi 18 octobre (lundi 23 octobre) | Remise TP2 |
+| Lundi 18 septembre | Examen intra |
+| Mercredi 20 septembre | Remise TP1 |
+| Mercredi 18 octobre |Examen final|
+| Mercredi 18 octobre (lundi 23 octobre) | Remise TP2 |
