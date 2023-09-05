@@ -84,10 +84,14 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Github Classroom E2023",
+            title: "Github Repositories",
             items: [
               {
                 label: "Groupe 6139",
+                href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
+              },
+              {
+                label: "Groupes 1010-1020",
                 href: `https://github.com/orgs/ProgWebTransFC/repositories?q=&type=all&language=&sort=name`,
               }
             ],
