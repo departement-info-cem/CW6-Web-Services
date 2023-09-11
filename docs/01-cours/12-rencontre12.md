@@ -12,13 +12,13 @@
 
 ## Activités de la séance: 
 ### Théorie:  
-
+ -[S12_MsIdentity.pptx](BRISE) 
 
 ### Démo:
-
+ - S12_Demo1 Authentification Autorisations Faites un *Fork* 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-
+ - S12_Lab1 Authentification Autorisations Faites un *Fork* 🔗[GitHub](BRISE)
  
 ### Travail personnel: 
 - Compléter le laboratoire

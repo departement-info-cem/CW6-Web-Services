@@ -8,5 +8,4 @@
 - Créer un application Web API
 - Implémenter MS identy avec tokens
 - Gérer les autorisations (rôles)
-- 
 

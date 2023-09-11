@@ -10,4 +10,4 @@ Présentation du Travail pratique 1
 Travail sur le TP1
 
 ### Travail personnel: 
-- Compléter les laboratoires et le TP1
+ Compléter les laboratoires et le TP1
