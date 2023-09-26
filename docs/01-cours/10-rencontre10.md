@@ -14,7 +14,7 @@
 
 ## Activités de la séance: 
 ### Théorie:  
- - 🔗[S10A_RestFull_API.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S10A_RestFull_API.pptx?d=w3adeba3929d842dab1f6653d7201166d&csf=1&web=1&e=jygmK6)
+ - 🔗[S10A_RestFull_API.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S10_RestFull_API.pptx?d=w20f1e1290c6348e69d5e0df9d1d232c0&csf=1&web=1&e=zgARr4)
  - 🔗[S10B_Angular Cors.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S10B_Angular%20Cors.pptx?d=wfbfdbc8e12924a74ba0305c6f673f5e9&csf=1&web=1&e=k5jLov)
 
 ### Démo:
