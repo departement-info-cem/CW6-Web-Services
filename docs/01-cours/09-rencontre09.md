@@ -17,14 +17,15 @@
 
 ## Activités de la séance: 
 ### Théorie:  
- - 🔗[S09_ThirdParty.pptx](BRISE)
+ - 🔗[S09_Retour_Services.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S09_Retour_Services.pptx?d=w968370318ffa4533b9956771fe1cc289&csf=1&web=1&e=wfcgvm)
+ - 🔗[S09_ThirdParty.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_CW6_SITE/PowerPoints/S09_ThirdParty.pptx?d=wa85ea3877af44c6d90bfdda5e5488d71&csf=1&web=1&e=ohWwrY)
 
 
 ### Démo:
- -  S09_Demo1 Angular ThirdParty Faites un *Fork* 🔗[GitHub](BRISE)
+ -  S09_Demo1 Angular ThirdParty Faites un *Fork* 🔗[GitHub](https://github.com/ProgWebServicesFC/CW6_S09_Demo1)
 
-### Laboratoire: 
- - S09_Lab1 Angular ThirdParty Faites un *Fork* 🔗[GitHub](BRISE)
+<!-- ### Laboratoire: 
+ - S09_Lab1 Angular ThirdParty Faites un *Fork* 🔗[GitHub](BRISE) -->
 
 ### Travail personnel: 
- - Compléter le laboratoire
+ - Compléter le TP1
