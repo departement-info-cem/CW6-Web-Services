@@ -1,25 +1,28 @@
 # Rencontre 16
 
 ## Contenu
-- Rôles
-- Librairie JS
-- Envoyer une image au client
-- Sous-requêtes HTTP
+- Manipulation des modules
+- Librairies UI
+- Module de routage
+- Module sans composant
+
 ## Ressources et documentation: 
-
+-[Librairie UI: Material.io](https://material.angular.io/)
+-[Bootstrap pour Angular: Widgets](https://ng-bootstrap.github.io/#/components/accordion/examples)
 #### Complémentaire: 
-
+ - [Librairie UI: Material.io](https://material.angular.io/)
+ - [Bootstrap pour Angular: Widgets](https://ng-bootstrap.github.io/#/components/accordion/examples)
 
 ## Activités de la séance: 
 ### Théorie:  
- - [S16_Roles_JS.pptx](BRISE)
+ - 🔗[S16_LibrairiesUI_ModulesSp.pptx](BRISE)
+
 
 ### Démo:
- - S16_Demo1 Rôles JS Faites un *Fork* 🔗[GitHub](BRISE)
+ - S16_Demo1 Angular LibrariesUI routage Modules sans composant Faites un *Fork* 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-- S16_Lab1 Rôles JS Faites un *Fork* 🔗[GitHub](BRISE)
+ - S16_Lab1 Angular LibrariesUI routage Modules sans composant Faites un *Fork* 🔗[GitHub](BRISE)
 
- 
 ### Travail personnel: 
 - Compléter le laboratoire

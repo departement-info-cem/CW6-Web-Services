@@ -1,26 +1,24 @@
-# Rencontre 15
+# Rencontre 16
 
 ## Contenu
-- Formulaire Angular 
-  - Envoyer un fichier à l’API
-- Feedback de requête échouée 
-- Entity Framework : relation double
-
-
+- Rôles
+- Librairie JS
+- Envoyer une image au client
+- Sous-requêtes HTTP
 ## Ressources et documentation: 
 
 #### Complémentaire: 
--[MSDN: Gestion des images Web API](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/ui-layouts-and-themes/9-working-with-images)
+
 
 ## Activités de la séance: 
 ### Théorie:  
- - [S15_Images_AngularForms.pptx](BRISE)
+ - [S16_Roles_JS.pptx](BRISE)
 
 ### Démo:
- - S15_Demo1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE)
+ - S16_Demo1 Rôles JS Faites un *Fork* 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
- - S15_Lab1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE)
+- S16_Lab1 Rôles JS Faites un *Fork* 🔗[GitHub](BRISE)
 
  
 ### Travail personnel: 

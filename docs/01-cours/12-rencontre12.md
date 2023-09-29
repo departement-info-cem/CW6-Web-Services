@@ -1,9 +1,11 @@
-# Rencontre 12
+# Rencontre 13
+
 ## Contenu
-- Gestion des comptes et droits d’accès 
-  - MS Identity
-  - Système de gestion Users, rôles
-  - Retour et suite les tokens 
+- Intercepteurs 
+- Touche pas à MON objet 
+- Seed (Entity Framework) 
+- Redirections 
+
 
 ## Ressources et documentation: 
 
@@ -12,13 +14,14 @@
 
 ## Activités de la séance: 
 ### Théorie:  
- -[S12_MsIdentity.pptx](BRISE) 
+ - [S13_Intercepteurs_Seed_Redirections.pptx]
 
 ### Démo:
- - S12_Demo1 Authentification Autorisations Faites un *Fork* 🔗[GitHub](BRISE)
+ - S13_Demo1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
- - S12_Lab1 Authentification Autorisations Faites un *Fork* 🔗[GitHub](BRISE)
+ - S13_Lab1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE)
+
  
 ### Travail personnel: 
 - Compléter le laboratoire

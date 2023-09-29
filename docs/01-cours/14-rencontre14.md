@@ -1,12 +1,27 @@
-# Rencontre 14
-## TP
-Présentation du Travail pratique 2
-- Groupe Formation continue 6139: [TP2](/tp_FC/tp2)
+# Rencontre 15
+
+## Contenu
+- Formulaire Angular 
+  - Envoyer un fichier à l’API
+- Feedback de requête échouée 
+- Entity Framework : relation double
+
+
+## Ressources et documentation: 
+
+#### Complémentaire: 
+-[MSDN: Gestion des images Web API](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/ui-layouts-and-themes/9-working-with-images)
 
 ## Activités de la séance: 
+### Théorie:  
+ - [S15_Images_AngularForms.pptx](BRISE)
+
+### Démo:
+ - S15_Demo1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
-Travail sur le TP2
+ - S15_Lab1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE)
 
+ 
 ### Travail personnel: 
-- Compléter les laboratoires et le TP2
+- Compléter le laboratoire

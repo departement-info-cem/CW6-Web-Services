@@ -1,27 +1,12 @@
-# Rencontre 13
-
-## Contenu
-- Intercepteurs 
-- Touche pas à MON objet 
-- Seed (Entity Framework) 
-- Redirections 
-
-
-## Ressources et documentation: 
-
-#### Complémentaire: 
-
+# Rencontre 14
+## TP
+Présentation du Travail pratique 2
+- Groupe Formation continue 6139: [TP2](/tp_FC/tp2)
 
 ## Activités de la séance: 
-### Théorie:  
- - [S13_Intercepteurs_Seed_Redirections.pptx]
-
-### Démo:
- - S13_Demo1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE)
 
 ### Laboratoire: 
- - S13_Lab1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE)
+Travail sur le TP2
 
- 
 ### Travail personnel: 
-- Compléter le laboratoire
+- Compléter les laboratoires et le TP2
