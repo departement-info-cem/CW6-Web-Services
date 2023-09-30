@@ -6,5 +6,5 @@
 | :--------------- |:---------------:|
 | Lundi 18 septembre | Examen intra |
 | Mercredi 20 septembre | Remise TP1 |
-| Mercredi 18 octobre |Examen final|
-| Mercredi 18 octobre (lundi 23 octobre) | Remise TP2 |
+| Lundi 23 octobre |Examen final|
+| Lundi 23 octobre (lundi 30 octobre) | Remise TP2 |
