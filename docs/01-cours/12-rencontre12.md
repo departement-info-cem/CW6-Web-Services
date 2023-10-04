@@ -14,13 +14,13 @@
 
 ## Activités de la séance: 
 ### Théorie:  
- - [S12_Intercepteurs_Seed_Redirections.pptx]
+ - [S12_Intercepteurs_Seed_Redirections.pptx](https://cegepedouardmontpetit-my.sharepoint.com/:p:/r/personal/valerie_turgeon_cegepmontpetit_ca/Documents/420_3W6_SITE/PowerPoints/S12_Intercepteurs_Seed_Redirections.pptx?d=w1062c29a808549b9a711d7d66218acaf&csf=1&web=1&e=RZFhpO)
 
 ### Démo:
- - S12_Demo1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE)
+ - DemoTP2 Faites un *Fork* 🔗[GitHub](https://github.com/ProgWebServicesFC/CW6_DemoTP2)
 
-### Laboratoire: 
- - S12_Lab1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE)
+<!-- ### Laboratoire: 
+ - S12_Lab1 Intercepteurs_Seed_Redirections Faites un *Fork* 🔗[GitHub](BRISE) -->
 
  
 ### Travail personnel: 
