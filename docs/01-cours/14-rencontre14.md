@@ -1,4 +1,4 @@
-# Rencontre 15
+# Rencontre 14
 
 ## Contenu
 - Formulaire Angular 
@@ -14,14 +14,15 @@
 
 ## Activités de la séance: 
 ### Théorie:  
- - [S15_Images_AngularForms.pptx](BRISE)
+ - [S14_Images_AngularForms.pptx](BRISE)
 
 ### Démo:
- - S15_Demo1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE)
+ <!-- - S14_Demo1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE) -->
+ - CW6_Demo_TP2 Images AngularForms Faites un *Fork* 🔗[GitHub](https://github.com/ProgWebServicesFC/CW6_DemoTP2)
 
 ### Laboratoire: 
- - S15_Lab1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE)
-
+ <!-- - S14_Lab1 Images AngularForms Faites un *Fork* 🔗[GitHub](BRISE) -->
+ - S14_Lab1 Images AngularForms Ajoutez dans le lab précédent
  
 ### Travail personnel: 
 - Compléter le laboratoire
