@@ -1,10 +1,11 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import { themes } from 'prism-react-renderer';
 
 const siteConfig = require("./config");
 
-const lightCodeTheme = require("prism-react-renderer/themes/vsLight");
-const darkCodeTheme = require("prism-react-renderer/themes/vsDark");
+const lightCodeTheme = themes.vsLight
+const darkCodeTheme = themes.vsDark
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -34,11 +35,10 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          editUrl: `https://github.com/departement-info-cem/${siteConfig.nomUrl}/tree/main`,
-          sidebarCollapsed: false,
+          editUrl: `https://github.com/departement-info-cem/${siteConfig.nomUrl}/tree/main/web`,
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: [require.resolve("./src/css/custom.css")],
         },
       }),
     ],
@@ -47,6 +47,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       navbar: {
         title: siteConfig.nom,
         logo: {
@@ -87,7 +92,9 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. ${siteConfig.nom}. CÉGEP Édouard-Montpetit.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. ${
+          siteConfig.nom
+        }. CÉGEP Édouard-Montpetit.`,
       },
       // Décommenter et remplir pour activer l'indexation des pages par le moteur de recherche local
       // algolia: {
@@ -98,15 +105,14 @@ const config = {
       //   searchPagePath: 'search',
       // },
       prism: {
-        theme: darkCodeTheme,
-        darkTheme: require('prism-react-renderer/themes/dracula'),
-        additionalLanguages: ["csharp"],
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+        additionalLanguages: ["csharp", "java", "dart"],
       },
       metadata: [
         {
           name: "keywords",
-          content:
-            `${siteConfig.nom}, ${siteConfig.description}, informatique, technique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
+          content: `${siteConfig.nom}, ${siteConfig.description}, informatique, technique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
         },
       ],
     }),
